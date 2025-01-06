@@ -1,4 +1,4 @@
-import { concatenation } from "../dist/concatenation";
+import { concatenation } from "./concatenation.js";
 const button = document.querySelector("button");
 const input = document.querySelector("input");
 if (button && input) {
